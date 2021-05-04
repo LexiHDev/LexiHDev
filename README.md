@@ -6,12 +6,12 @@ I'm a self-taught programmer who is now taking classes to further my experience.
 
 Skills: REACT / JS / HTML / CSS / GODOT 
 
-- 🔭 I’m currently working on Classes 
+- 🔭 I’m currently attending Lambda School. 
 - 🌱 I’m currently learning React / Godot 
 - 👯 I’m looking to collaborate on Game Dev 
 - 🤔 I’m looking for help with Networking 
 - 💬 Ask me about Functional or Asynchronous Programming 
-- 📫 How to reach me: My Socials 
+- 📫 How to reach me: adrianhensondev@gmail.com
 - 😄 Pronouns: He/Him 
 
 
@@ -21,7 +21,7 @@ Skills: REACT / JS / HTML / CSS / GODOT
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianHDev&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AdrianHDev)  
+![GitHub Activity Graph](t)  
 
 ![GitHub metrics](https://metrics.lecoq.io/AdrianHDev)  
 
