@@ -7,7 +7,7 @@ I'm a self-taught programmer who is now taking classes to further my experience.
 Skills: REACT / JS / HTML / CSS / GODOT 
 
 - 🔭 I’m currently attending Lambda School. 
-- 🌱 I’m currently learning React / Godot 
+- 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on Game Dev 
 - 🤔 I’m looking for help with Networking 
 - 💬 Ask me about Functional or Asynchronous Programming 
