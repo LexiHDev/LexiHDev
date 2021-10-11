@@ -6,13 +6,10 @@ I'm a self-taught programmer who is now taking classes to further my experience.
 
 Skills: REACT / JS / HTML / CSS / GODOT 
 
-- 🔭 I’m currently attending Lambda School. 
-- 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on Game Dev 
-- 🤔 I’m looking for help with Networking 
-- 💬 Ask me about Functional or Asynchronous Programming 
-- 📫 How to reach me: adrianhensondev@gmail.com
-- 😄 Pronouns: He/Him 
+- 💬 Ask me 
+- 📫 How to reach me: LexiHensonDev@gmail.com
+- 😄 Pronouns: She/Her 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AdrianHDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.buymeacoffee.com/adrianHenson?new=1/)  
