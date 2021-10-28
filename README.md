@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Lexi!
 #### I am a web dev student @ LambdaSchool
-I am a web dev student @ LambdaSchool
 
 I'm a self-taught programmer who is now taking classes to further my experience.
 
