@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Adrian!
+### Hi there 👋, I'm Lexi!
 #### I am a web dev student @ LambdaSchool
 ![I am a web dev student @ LambdaSchool](https://github.com/AdrianHDev/AdrianHDev/blob/07c6d4feacf84239e40b8474b8e1cb0dd7c5c4af/Adrian_Henson.png?raw=true)
 
@@ -12,7 +12,7 @@ Skills: REACT / JS / HTML / CSS / GODOT
 - 😄 Pronouns: She/Her 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AdrianHDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.buymeacoffee.com/adrianHenson?new=1/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AdrianHDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.buymeacoffee.com/Lexi?new=1/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianHDev)](https://github.com/anuraghazra/github-readme-stats)
 
