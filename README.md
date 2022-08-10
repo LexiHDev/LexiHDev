@@ -1,14 +1,13 @@
 ### Hi there 👋, I'm Lexi!
-#### I am a web dev student @ LambdaSchool
+#### I am a Software Engineer 
 
-I'm a self-taught programmer who is now taking classes to further my experience.
+I'm a self-taught programmer who is now classes to further my experience.
 
-Skills: REACT / JS / HTML / CSS / GODOT 
+Skills: REACT / JS / HTML / CSS / GDScript 
 
 - 👯 I’m looking to collaborate on Game Dev 
 - 💬 Ask me 
 - 📫 How to reach me: LexiHensonDev@gmail.com
-- 😄 Pronouns: She/Her 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AdrianHDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.buymeacoffee.com/Lexi?new=1/)  
