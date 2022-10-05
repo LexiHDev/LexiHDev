@@ -3,7 +3,7 @@
 
 I'm a self-taught programmer!
 
-Skills: REACT / JS / HTML / CSS / GDScript 
+Skills: Java / Spring / REACT / JS / HTML / CSS / GDScript 
 
 - 👯 I’m looking to collaborate on Game Dev 
 - 💬 Ask me 
