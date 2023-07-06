@@ -14,10 +14,6 @@ Skills: Java / Spring / REACT / JS / HTML / CSS / GDScript
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LexiHDev&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](t)  
-
 ![GitHub metrics](https://metrics.lecoq.io/LexiHDev)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LexiHDev)  
-
-![Profile views](https://gpvc.arturio.dev/LexiHDev)  
