@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Lexi!
-#### I am a Software Engineer 
-
-I'm a self-taught programmer!
+#### I have been a Software Engineer for 3 years
 
 Skills: Java / Spring / REACT / JS / HTML / CSS / GDScript 
 
